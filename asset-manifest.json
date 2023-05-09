@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/travel_free.github.io/static/css/main.2642f9a9.css",
-    "main.js": "/travel_free.github.io/static/js/main.45b08db8.js",
+    "main.js": "/travel_free.github.io/static/js/main.af6fa85d.js",
     "static/js/787.847c7220.chunk.js": "/travel_free.github.io/static/js/787.847c7220.chunk.js",
+    "static/media/linkdin.png": "/travel_free.github.io/static/media/linkdin.712c4ce3d6be06644d11.png",
+    "static/media/g+icon.png": "/travel_free.github.io/static/media/g+icon.c4f833b0f0800f25c75b.png",
     "index.html": "/travel_free.github.io/index.html",
     "main.2642f9a9.css.map": "/travel_free.github.io/static/css/main.2642f9a9.css.map",
-    "main.45b08db8.js.map": "/travel_free.github.io/static/js/main.45b08db8.js.map",
+    "main.af6fa85d.js.map": "/travel_free.github.io/static/js/main.af6fa85d.js.map",
     "787.847c7220.chunk.js.map": "/travel_free.github.io/static/js/787.847c7220.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2642f9a9.css",
-    "static/js/main.45b08db8.js"
+    "static/js/main.af6fa85d.js"
   ]
 }
