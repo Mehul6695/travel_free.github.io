@@ -1,4 +1,7 @@
 import React from "react";
+import logo from "../img/facebook-icon.png";
+import logo1 from "../img/g+icon.png";
+import logo2 from "../img/linkdin.png";
 function Main()
 {
     return (
@@ -9,9 +12,11 @@ function Main()
         <h3>Login using Social Network</h3>
        
         < p id="logo">
-        <img src="/assets/img/facebook-icon.png" name="facebook" alt="facebook"/>
-        <img src="/assets/img/g+icon.png" name="facebook" alt="g+"/>
-        <img src="/assets/img/linkdin.png" name="facebook" alt="linkdin"/>
+        {/* <img src="/assets/img/facebook-icon.png" name="facebook" alt="facebook"/> */}
+        <img src= {logo} alt="img1" /> 
+        <img src= {logo1} alt="img2" /> 
+        <img src= {logo2} alt="img3" /> 
+        
         </p>
         <p>-------------------------or-------------------------</p>
         <form name="sing" action="#">
